@@ -58,26 +58,3 @@
   
   
 </p>
-
-<br>
-<br>
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/briden-dafoe-a799212a8" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  briden-dafoe-a799212a8.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-
-<br>
-<br>
-
-<li>
-<a href="mailto:dafoebriden@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dafoebriden-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
