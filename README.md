@@ -70,13 +70,15 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<br>
+<ul>
 
-[![Bridens's GitHub stats](https://github-readme-stats.vercel.app/api?username=dafoebriden)](https://github.com/dafoebriden/github-readme-stats)
-
-
+<li>
+<a href="https://linkedin.com/in/briden-dafoe-a799212a8" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  briden-dafoe-a799212a8.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</div>
+</li>
+
 
 <br>
 <br>
