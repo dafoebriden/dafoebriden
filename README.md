@@ -1,1 +1,1 @@
-<h1 align="center">Hi Im Briden and i think code is pretty cool</h1>
+<h1 align="center">Hi Im Briden</h1>
